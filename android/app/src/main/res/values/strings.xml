@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TutorMatch</string>
+    <string name="title_activity_main">TutorMatch</string>
+    <string name="package_name">com.tutormatch.app</string>
+    <string name="custom_url_scheme">com.tutormatch.app</string>
+</resources>
